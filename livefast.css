@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
+body {
+  background: #1e1d1d;
+  padding-top: 50px;
+}
+
+.container {
+  width: 80%;
+  max-width: 1200px;
+  margin: auto;
+  position: relative;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.knockout-text-1 {
+  color: #fff;
+  font-family: 'Oswald', sans-serif;
+  background: url(https://hdfreefoto.files.wordpress.com/2014/09/abstract-acrylic-colors.jpg) no-repeat center;
+  background-size: cover;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-size: 25vw;
+}
